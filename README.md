@@ -9,6 +9,10 @@
 TBD
 ```
 
+## Resources
+
+- [TutorialKit: Interactive tutorials in the browser](https://blog.stackblitz.com/posts/announcing-tutorialkit/)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
