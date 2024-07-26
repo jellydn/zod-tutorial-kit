@@ -16,19 +16,19 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.7.0",
+    "@astrojs/check": "^0.8.3",
     "@astrojs/react": "^3.6.0",
     "@iconify-json/ph": "^1.1.13",
     "@iconify-json/svg-spinners": "^1.1.2",
     "@tutorialkit/astro": "0.1.0",
     "@tutorialkit/types": "0.1.0",
-    "@types/node": "^20.14.6",
+    "@types/node": "^20.14.12",
     "@types/react": "^18.3.3",
-    "@unocss/reset": "^0.59.4",
-    "astro": "^4.12.0",
+    "@unocss/reset": "^0.61.5",
+    "astro": "^4.12.2",
     "fast-glob": "^3.3.2",
     "prettier-plugin-astro": "^0.14.1",
-    "typescript": "^5.4.5",
-    "unocss": "^0.59.4"
+    "typescript": "^5.5.4",
+    "unocss": "^0.61.5"
   }
 }
