@@ -24,6 +24,7 @@ const customIconCollection = iconPaths.reduce(
 	{} as Record<string, Record<string, () => Promise<string>>>,
 );
 
+// @ts-expect-error - This is a valid UnoCSS config
 export default defineConfig({
 	...unoCSSConfig,
 	content: {
