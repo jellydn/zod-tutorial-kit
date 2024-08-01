@@ -12,7 +12,7 @@
 		"start": "astro dev"
 	},
 	"dependencies": {
-		"@tutorialkit/components-react": "0.1.1",
+		"@tutorialkit/components-react": "0.1.2",
 		"react": "18.3.1",
 		"react-dom": "18.3.1"
 	},
@@ -22,12 +22,12 @@
 		"@biomejs/biome": "1.8.3",
 		"@iconify-json/ph": "1.1.13",
 		"@iconify-json/svg-spinners": "1.1.2",
-		"@tutorialkit/astro": "0.1.1",
-		"@tutorialkit/types": "0.1.1",
+		"@tutorialkit/astro": "0.1.2",
+		"@tutorialkit/types": "0.1.2",
 		"@types/node": "22.0.2",
 		"@types/react": "18.3.3",
 		"@unocss/reset": "0.61.9",
-		"astro": "4.12.3",
+		"astro": "4.13.0",
 		"fast-glob": "3.3.2",
 		"prettier-plugin-astro": "0.14.1",
 		"typescript": "5.5.4",
