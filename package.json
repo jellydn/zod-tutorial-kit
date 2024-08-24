@@ -26,11 +26,11 @@
 		"@tutorialkit/types": "0.1.5",
 		"@types/node": "22.5.0",
 		"@types/react": "18.3.4",
-		"@unocss/reset": "0.62.2",
+		"@unocss/reset": "0.62.3",
 		"astro": "4.14.5",
 		"fast-glob": "3.3.2",
 		"prettier-plugin-astro": "0.14.1",
 		"typescript": "5.5.4",
-		"unocss": "0.62.2"
+		"unocss": "0.62.3"
 	}
 }
