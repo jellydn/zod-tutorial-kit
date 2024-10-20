@@ -22,7 +22,7 @@
 		"@biomejs/biome": "1.8.3",
 		"@iconify-json/ph": "1.2.0",
 		"@iconify-json/svg-spinners": "1.2.0",
-		"@tutorialkit/astro": "0.2.3",
+		"@tutorialkit/astro": "1.1.1",
 		"@tutorialkit/types": "0.2.3",
 		"@types/node": "22.5.4",
 		"@types/react": "18.3.5",
