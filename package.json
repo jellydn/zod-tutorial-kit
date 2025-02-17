@@ -13,8 +13,8 @@
 	},
 	"dependencies": {
 		"@tutorialkit/components-react": "0.1.6",
-		"react": "18.3.1",
-		"react-dom": "18.3.1"
+		"react": "19.0.0",
+		"react-dom": "19.0.0"
 	},
 	"devDependencies": {
 		"@astrojs/check": "0.9.4",
@@ -25,7 +25,7 @@
 		"@tutorialkit/astro": "1.1.1",
 		"@tutorialkit/types": "1.1.1",
 		"@types/node": "22.8.4",
-		"@types/react": "18.3.12",
+		"@types/react": "19.0.10",
 		"@unocss/reset": "0.63.6",
 		"astro": "4.16.7",
 		"fast-glob": "3.3.2",
