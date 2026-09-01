@@ -24,7 +24,7 @@
 		"@iconify-json/svg-spinners": "1.2.1",
 		"@tutorialkit/astro": "1.1.1",
 		"@tutorialkit/types": "1.1.1",
-		"@types/node": "22.8.4",
+		"@types/node": "26.4.1",
 		"@types/react": "18.3.12",
 		"@unocss/reset": "0.63.6",
 		"astro": "4.16.7",
